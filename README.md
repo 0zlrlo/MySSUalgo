@@ -20,10 +20,9 @@
 ```
 # 
 **김지은**   
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=지은이백준아이디 넣는칸">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0zlrlo">
 ```
-👉 github link : https://github.com/MoOo2mini    
-👉 boj id : minhee020 
-👉 velog : https://velog.io/@2mini   
+👉 github link : https://github.com/0zlrlo    
+👉 boj id : wldmsk0918 
 ```
 #  
